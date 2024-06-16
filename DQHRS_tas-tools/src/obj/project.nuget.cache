@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Dqrir4pX/650tTYEl0yWqpPCapNHfKz8xa6ebOW9cJHaRiaJhK/FUtFbHEQvJJuGpqc2qYjGGC1hF/Hm0MIGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\name3\\source\\repos\\dqhrs-tas-tools\\biztest\\src\\biztest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\name3\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\name3\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
